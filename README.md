@@ -1,3 +1,8 @@
+#首先它是仅支持VIVOS9的twrp，其次它仅支持6.10.1的系统版本左右请不要搞错了
+
+
+
+
 # 使用Github Action编译Recovery
 
 - 支持TWRP、SHRP编译和制作
